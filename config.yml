@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: see Trung
     subtitle: "and his footprint in our (pla)net"
-    imageUrl: "https://github.com/chumvan/chumvan.github.io/blob/main/static/img/frog.png"
+    imageUrl: ""
     imageWidth: 120
     imageHeight: 120
     imageTitle: my avatar
