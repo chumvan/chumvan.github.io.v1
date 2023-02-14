@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Trung Van</title>
-    <link>https://chumvan.github.io/</link>
-    <description>Recent content on Trung Van</description>
+    <title>streaming on Trung Van</title>
+    <link>https://chumvan.github.io/tags/streaming/</link>
+    <description>Recent content in streaming on Trung Van</description>
     <image>
       <title>Trung Van</title>
       <url>https://chumvan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
       <link>https://chumvan.github.io/posts/cv/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://chumvan.github.io/posts/cv/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://chumvan.github.io/posts/about/</link>
-      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
-      
-      <guid>https://chumvan.github.io/posts/about/</guid>
-      <description>A person trying to find out what to do ~ in his life ~ next.</description>
     </item>
     
   </channel>
