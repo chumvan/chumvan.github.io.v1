@@ -58,13 +58,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Trung Van
+    subtitle: "Welcome page to my corner"
+    imageUrl: "./static/img/frog.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: my avatar
     buttons:
       - name: Posts
         url: posts
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/chumvan/chumvan.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
