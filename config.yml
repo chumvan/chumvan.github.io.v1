@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Trung Van
-    subtitle: "Welcome page to my corner"
-    imageUrl: "./static/img/frog.png"
+    title: see Trung
+    subtitle: "and his footprint in our (pla)net"
+    imageUrl: { { <ref "/static/img/frog.png" > } }
     imageWidth: 120
     imageHeight: 120
     imageTitle: my avatar
