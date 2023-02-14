@@ -10,6 +10,27 @@
       <link>https://chumvan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chumvan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://chumvan.github.io/posts/cv/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/posts/cv/</guid>
+      <description>What is this? The PDF file for my CV, for those who are not into the web-version?
+Here it is Previous Next &amp;nbsp; &amp;nbsp; Page: / </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://chumvan.github.io/posts/about/</link>
+      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/posts/about/</guid>
+      <description>As a lifelong learner, I am always eager to embark on new learning journeys. My passion for technology and innovation has led me to specialize in the fields of IoT, streaming, and Machine Learning. I strongly believe in the power of discipline and consistent effort to achieve great results.
+Being a part of this fast-paced digital era is truly exhilarating as I get to witness how the impossible becomes possible every day.</description>
+    </item>
+    
   </channel>
 </rss>

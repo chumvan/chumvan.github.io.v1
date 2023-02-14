@@ -10,6 +10,79 @@
       <link>https://chumvan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chumvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cv</title>
+      <link>https://chumvan.github.io/tags/cv/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profession</title>
+      <link>https://chumvan.github.io/tags/profession/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/profession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://chumvan.github.io/tags/research/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://chumvan.github.io/tags/work/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goal</title>
+      <link>https://chumvan.github.io/tags/goal/</link>
+      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/goal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://chumvan.github.io/tags/me/</link>
+      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>view</title>
+      <link>https://chumvan.github.io/tags/view/</link>
+      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>worldlense</title>
+      <link>https://chumvan.github.io/tags/worldlense/</link>
+      <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/worldlense/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
