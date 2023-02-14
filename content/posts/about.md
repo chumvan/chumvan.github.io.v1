@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2023-02-06T16:15:42+02:00
-draft: true
+draft: false
+tags: ["me", "worldlense", "view", "goal"]
 ---
 
 As a lifelong learner, I am always eager to embark on new learning journeys. My passion for technology and innovation has led me to specialize in the fields of IoT, streaming, and Machine Learning. I strongly believe in the power of discipline and consistent effort to achieve great results.
