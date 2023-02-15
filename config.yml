@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: a hinch of Trung
-    subtitle: "and his niche on our (pla)net"
+    title: Trung
+    subtitle: "on our (pla)net"
     imageUrl: "/img/frog.png"
     imageWidth: 120
     imageHeight: 120
@@ -77,12 +77,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: gmail
+      url: "vanhuuthanhtrung@gmail.com"
     - name: github
       url: "https://github.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/trung-van/"
 
   analytics:
     google:
