@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: see Trung
-    subtitle: "and his footprint in our (pla)net"
-    imageUrl: ""
+    title: a hinch of Trung
+    subtitle: "and his niche on our (pla)net"
+    imageUrl: "/img/frog.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my avatar
