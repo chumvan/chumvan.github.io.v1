@@ -77,10 +77,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: gmail
+    - name: email
       url: "vanhuuthanhtrung@gmail.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/chumvan"
     - name: linkedin
       url: "https://www.linkedin.com/in/trung-van/"
 
@@ -122,9 +122,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: about
+      name: about
+      url: /about/about
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -135,4 +135,4 @@ markup:
     # codeFences: true
     # guessSyntax: true
     # lineNos: true
-    # style: monokai
+    style: monokai
