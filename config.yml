@@ -19,15 +19,15 @@ params:
   title: Trung's internet footprint
   description: "Trung's place, Trung's thoughts"
   keywords: [Blog, Portfolio]
-  author: Trung Van
+  # author: Trung Van
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -60,12 +60,14 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Trung
-    subtitle: "on our (pla)net"
+    subtitle: "on this (pla)net"
     imageUrl: "/img/frog.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my avatar
     buttons:
+      - name: resumé
+        url: posts/cv
       - name: posts
         url: posts
       - name: tags
@@ -73,12 +75,10 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "I am Trung"
+    Content: "Somehow you found this site, why don't you check some (cool) stuffs here?"
 
   socialIcons:
-    - name: email
-      url: "vanhuuthanhtrung@gmail.com"
     - name: github
       url: "https://github.com/chumvan"
     - name: linkedin
@@ -97,10 +97,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/chumvan/chumvan.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/chumvan/chumvan.github.io/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html

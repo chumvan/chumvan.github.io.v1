@@ -6,4 +6,4 @@ categories: ["about"]
 tags: ["me", "world-lense", "view", "goal"]
 ---
 
-    A person trying to find out what to do ~~in his life~~ next.
+A person trying to find out what to do ~~in his life~~ next.
