@@ -23,11 +23,11 @@
     
     <item>
       <title>CV</title>
-      <link>https://chumvan.github.io/about/cv/</link>
+      <link>https://chumvan.github.io/posts/cv/</link>
       <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
       
-      <guid>https://chumvan.github.io/about/cv/</guid>
-      <description>Field of knowledge Streaming and Event-based system | Cloud Native Solutions AI/ML application | Signal Processing | Computer Vision Industrial IoT | 5G | Computer Networking | Information Modeling Tech Programming C/C++ | Scala | Bash Golang Python | Matlab | R JavaScript/Typescript Database SQL| MongoDB | influx DB Cloud w/ fundamental knowledge AWS: S3 | IoTCore | Lambda | DynamoDB Azure: Basic training | ML Lab AI/ML: sklearn, keras, pytorch, tensorflow DevOps GitActions Docker | Kubernetes Heroku | VM | multipass Monitoring: Prometheus Documentation Latex | MermaidJS | PlantUML Web Nodejs | Express | React MaterialUI | Semantic UI React Swagger | OpenAPI Testing Jest | Cypress | Supertest | Testing library Connectivity: REST | GraphQL RTP/RTCP | WebRTC HTTP | TCP | UDP | MQTT | DTLS | OSCORE RFID | BLE | Zigbee | XBee | LoRa | NB-IoT Profibus | EtherCAT | CAN | CANopen GUI Qt | Thingspeak | Thingsboard Visualization D3js | Plotly | Grafana Electrical skills design | safety | installation Tools: Make | Git | SSH | Vim | Qt Creator Postman | Visual Studio Matlab | LabView | Codesys | Fusion | Prosys Automation | Embedded: PLC | SCADA | HMI | MES | Applied Robotics OPC UA | FIWARE | JADE | ROS Process planning | Distributed Intelligence Microcontrollers | Microprocessor Experience Education Projects Referees Personal contact By looking at this section, you have confirmed that you are looking for my contact.</description>
+      <guid>https://chumvan.github.io/posts/cv/</guid>
+      <description>Field of knowledge Streaming and Event-based system | Cloud Native Solutions AI/ML application | Signal Processing | Computer Vision Industrial IoT | 5G | Computer Networking | Information Modeling Tech stack Programming Golang for transport and application layer programs Python for AI/ML tasks and automation Bash for Linux environment daily usage C/C++ for prototyping with Arduino or ESP32 Scala for big data processing Matlab for optimization research or process automation JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface Database SQL| MongoDB | influx DB Fundamental knowledge in Cloud AWS: S3 | IoTCore | Lambda | DynamoDB Azure: Basic training | ML Lab AI/ML: sklearn, keras, pytorch, tensorflow DevOps GitActions for CI/CD Applying containerization and orchestration using Docker and Kubernetes Services and applications for higher productivity as Heroku or multipass.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Mon, 06 Feb 2023 16:15:42 +0200</pubDate>
       
       <guid>https://chumvan.github.io/about/_about/</guid>
-      <description>A person trying to find out what to do ~~in his life~~ next. </description>
+      <description>A person trying to find out what to do in his life next.</description>
     </item>
     
   </channel>
