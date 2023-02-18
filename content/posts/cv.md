@@ -6,6 +6,14 @@ categories: ["cv", "work"]
 tags: ["AI", "IoT", "research", "streaming", "IIoT"]
 ---
 
+I hesitated for a while about making this page. 
+Many people including me dislike long pages of text. However, there are occasions where they are needed. 
+Who knows, there could be people who actually like to process this information like that. 
+Personally, I believe a face-to-face meeting serves as the best CV of mine. 
+If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).
+
+*I certainly will update this page till I find a better way to log this kind of information.*
+
 # Field of knowledge
 - Streaming and Event-based system | Cloud Native Solutions
 - AI/ML application | Signal Processing | Computer Vision
@@ -74,6 +82,57 @@ tags: ["AI", "IoT", "research", "streaming", "IIoT"]
 
 
 # Experience
+This is a short list of the position I have been (gratefully) working in for the last few years. 
+For longer descriptions, click on any link you can find.
+
+## Ericsson Finland
+*IoT research team*
+
+As a Research trainee and then a full-time Researcher, I worked on
+- IoT Streaming research | one patent submitted
+- Scientific documentation and presentation
+- Signaling & Data Transferring System prototyping
+
+## Tampere Universities
+[*Audio Lab*](https://webpages.tuni.fi/arg/)
+
+As a Research Assistant, I worked for the following tasks
+- Preliminary tasks for the audio source localization project
+- Data collection and labeling
+- Scientific experiment design
+
+*[FAST lab](https://www.tuni.fi/en/research/fast-lab) - [CHARM EU Project](https://charm-ecsel.eu/)*
+
+As a core developer and a Research Assistant, I contributed to the following tasks:
+- Apply and test the performance of the IoT framework for industrial cases:
+    - **Sandvik**: Telemetry monitoring for the mining environment
+    - **Valmet**: Paper roll machine condition monitoring
+- Data management solution investigation and deployment
+
+## Aalto University
+*REMOS TUTLI Project & REMOS start-up*
+
+First as a Research Assistant in the research and then the only IT engineer in the start-up, I contributed in:
+- Designed a bright bolt to gather, process, and report stress data applied for deep mines in soft real-time.
+- Deployed a time-series system for storage, processing, visualization, and evaluate strain data.
+- Deploy and test performance for 20 devices in a network with Zigbee as the communication protocol in constraint conditions.
+Key learning: applied machine learning, software development, system design, networking, electronic design, innovation, and business development 
+
+## Tentrio Company
+As an IoT developer and also a thesis worker achieved some learning as following:
+- Investigated, designed, and implemented a device to measure and visualize an animal’s heart rate on web-app
+- Result: A small system to measure big animal heart-rate including
+    - portable custom stethoscope + filter circuit
+    - the aggregate and pre-processing device from Arduino
+    - web app to visualize ECG of animals with low latency and D3 plotting GUI
+Key learning: Signal processing, web, visualization, circuit design
+
+## Danang Heineken Brewery Factory
+As an Automation engineer, I worked (in a completely sober state) with beer and beer making processes:
+- Maintenance-trouble shooting Can & Bottle Automation Lines
+- Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.
+
+
 
 # Education
 
