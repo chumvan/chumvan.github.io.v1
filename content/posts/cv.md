@@ -14,7 +14,7 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 
 *I certainly will update this page till I find a better way to log this kind of information.*
 
-## 1. Field of knowledge
+## 1. Field of knowledge 
 - Streaming and Event-based system | Cloud Native Solutions
 - AI/ML application | Signal Processing | Computer Vision
 - Industrial IoT | 5G | Computer Networking | Information Modeling
@@ -186,12 +186,14 @@ Focus:
 - apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708
 
 #### Python for AI/ML
-- Acoustic predictive maintenance with triplet network
+- [Smart bolt for strain monitoring](https://github.com/chumvan/REMOS_RPI)
+- [Unicycle robot control](https://github.com/chumvan/unicycle-mobile-robot-control)
+- [Acoustic predictive maintenance](https://github.com/chumvan/audio_anomaly_detection) with triplet network - [DCASE challenge 2021](https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds)
 - Audio signal alignment
 - Audio anomaly detection using embeddings
 - Signal sources separation
 - Multiple projects work applying: 
-    - Yolo/SSD 
+    - [Yolo/SSD](https://github.com/chumvan/ComputerVisionTUT2020)
     - image/audio classification
     - Linear regression
 - Predictive propeller maintenance:
@@ -199,7 +201,8 @@ Focus:
     - predict downtime using Linear Regression
 
 #### MATLAB
-- EEG and ECG signal processing
+- [EEG](https://github.com/chumvan/EEG_spectral_analysis) and [ECG](https://github.com/chumvan/BSA) signal processing
+- [Spectral entropy analysis](https://github.com/chumvan/spectral_entropy_DOA)
 - Digital scale for continuous measurement 
 - Real-time strain monitoring from displacement
 - Multiple signal and image processing applications
@@ -208,18 +211,23 @@ Focus:
 
 #### Golang
 *Content delivery and transport layer application*
-- RTP Client-Server prototyping
-- Microservices implementation
+- Golang wrapper for Raspberry Pi SenseHat - [gopysense](https://github.com/chumvan/gopysense)
+- [T140](https://github.com/chumvan/t140) packet format based on [RFC4103](https://datatracker.ietf.org/doc/html/rfc4103)
+- Microservices implementation: 
+    - [SIP-REST translator](https://github.com/chumvan/sipRestServer)
+    - [Associate a Conference to a Topic](https://github.com/chumvan/confdb)
 
 #### Fullstack
 *Blog list full-stack app*
-- Frontend: React & Material UI
-- Backend: MongoDB, NodeJS and Express
+- [Web dev practice](https://github.com/chumvan/fullstackopen-2021)
+- [Frontend](https://github.com/chumvan/bloglist-frontend): React & Material UI
+- [Backend](https://github.com/chumvan/bloglist-backend): MongoDB, NodeJS and Express
 - Testing: Cypress and Jest
 - Deploy: Docker & Heroku
 
 #### Backend
-*Library app*
+[*Library app*](https://github.com/chumvan/fullstackopen-2021/tree/main/part8)
+- Explore an alternative for communication between browser and server
 - GraphQL(Apollo Client and Server) and Express
 
 #### AWS using Python
