@@ -31,17 +31,21 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 - JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface
 
 ### Database
-- SQL| MongoDB | influx DB
+- SQL| MongoDB | influxDB
 
 ### Fundamental knowledge in Cloud
 - AWS: S3 | IoTCore | Lambda | DynamoDB
 - Azure: Basic training | ML Lab
 - AI/ML: sklearn, keras, pytorch, tensorflow
+
 ### DevOps
-- GitActions for CI/CD
+- Virtualization with Vagrant and Multipass
+- Tools and Platforms: Github | Gitlab | Jfrog
+- GitActions and Ansible for CI/CD
 - Applying containerization and orchestration using Docker and Kubernetes
-- Services and applications for higher productivity as Heroku or multipass.
+- Services and applications for higher productivity as Heroku 
 - Monitoring system with Prometheus
+
 ### Documentation
 - A fluent level of scientific writing
 - Capable to deliver enterprise level documentation
@@ -65,16 +69,12 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 
 ### GUI
 - Qt | Thingspeak | Thingsboard
+
 ### Visualization
 - D3js | Plotly | Grafana
 
 ### Electrical skills
 - Design | safety | installation
-
-### Tools
-- Make | Git | SSH | Vim | Qt Creator
-- Postman | Visual Studio
-- Matlab | LabView | Codesys | Fusion | Prosys
 
 ### Automation and Embedded:
 - PLC | SCADA | HMI | MES | Applied Robotics 
@@ -82,6 +82,11 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 - Process planning | Distributed Intelligence
 - Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi
 
+### More tools
+- Make | SSH | Vim | Qt Creator
+- Postman | Visual Studio
+- Matlab | LabView | Codesys | Fusion | Prosys
+- Notion | Obsidian
 
 ## 3. Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 

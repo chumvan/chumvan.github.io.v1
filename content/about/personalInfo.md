@@ -6,7 +6,7 @@ draft: False
 
 - Full name: Van Huu Thanh Trung
 - Email: vanhuuthanhtrung@gmail.com
-- Tel: +358413134992
+- Tel: +358 413134992
 - Language: EN | VN
 
 
