@@ -35,13 +35,19 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 
 ### Fundamental knowledge in Cloud
 - AWS: S3 | IoTCore | Lambda | DynamoDB
+- OpenStack
 - Azure: Basic training | ML Lab
-- AI/ML: sklearn, keras, pytorch, tensorflow
+- Infrastructure as Code with Terraform and Ansible
+
+### AI/ML hands-on
+- sklearn, keras, pytorch, tensorflow
+- gpt API
+- huggingface
 
 ### DevOps
 - Virtualization with Vagrant and Multipass
-- Tools and Platforms: Github | Gitlab | Jfrog
-- GitActions and Ansible for CI/CD
+- Tools and Platforms: GitHub | GitLab | Jfrog
+- GitActions for CI/CD
 - Applying containerization and orchestration using Docker and Kubernetes
 - Services and applications for higher productivity as Heroku 
 - Monitoring system with Prometheus
