@@ -258,7 +258,7 @@ Focus:
     - ["Streaming Processing with Apache Flink"](https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/) by Fabian Hueske and Vasiliki Kalavri
 - Cloud computing: 
     - ["Cloud native Go"](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) by Matthew A. Titmus
-    - AZ-900 Certificate - Exam in March 2023
+    - [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url)
     - AI-900 Certificate - Exam in March 2023
 - [IoT Wireless & Cloud Computing Emerging Technologies](https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH) from Yonsei University
 - [Fundamental of Parallelism on Intel Architect](https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK)

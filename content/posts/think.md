@@ -6,7 +6,7 @@ categories: ["posts"]
 tags: ["world-lense", "personal", "30min"]
 ---
 
-Sometimes we spend hours, days, or even months worrying about things that aren’t actually that big of a deal. We tend to hope for a complicated or ‘mind-blowing’ solution to compensate for the effort we’ve put into the problem. But when we look back, the dots connect and it all seems much simpler. 
+Sometimes we spend hours, days, or even months worrying about things that aren’t actually that big of a deal. We tend to hope for a complicated or ‘mind-blowing’ solution to compensate for the effort we’ve put into the problem. But when we look back, the dots connect, and it all seems much simpler. 
 
 This analogy is applicable to life too. Deciding to take the first step can be the hardest part, as it requires us to make a decision with so much uncertainty, doubt, freedom and possibilities. But once we’ve taken the first step, we’re filled with confidence and acceptance.
 
