@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 16:47:34 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 13:45:00 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On thinking</title>
+      <link>https://chumvan.github.io/posts/think/</link>
+      <pubDate>Sat, 25 Feb 2023 13:45:00 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/posts/think/</guid>
+      <description>Sometimes we spend hours, days, or even months worrying about things that aren’t actually that big of a deal. We tend to hope for a complicated or ‘mind-blowing’ solution to compensate for the effort we’ve put into the problem. But when we look back, the dots connect and it all seems much simpler.
+This analogy is applicable to life too. Deciding to take the first step can be the hardest part, as it requires us to make a decision with so much uncertainty, doubt, freedom and possibilities.</description>
+    </item>
+    
     <item>
       <title>Personal Info</title>
       <link>https://chumvan.github.io/about/personalinfo/</link>
