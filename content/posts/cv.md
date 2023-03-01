@@ -41,7 +41,7 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 
 ### AI/ML hands-on
 - sklearn, keras, pytorch, tensorflow
-- gpt API
+- openAI API tinkering
 - huggingface
 
 ### DevOps
@@ -268,6 +268,7 @@ Focus:
     - [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/certificate/FAVDLP64EKNP) from Duke University
 
 ## 6. Referees
+- IoT Expert Ari Keränen from Ericsson: ari.keranen[at]ericsson.com
 - Professor Tuomas Virtanen from Tampere Universities: tuomas.virtanen[at]tuni.fi
 - Professor Jose Lastra from Tampere Univerisities: jose.martinezlastra[at]tuni.fi
 - Professor Rinne Mikael from Aalto University: mikael.rinne[at]aalto.fi

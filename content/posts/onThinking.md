@@ -3,7 +3,7 @@ title: "On thinking"
 date: 2023-02-25T13:45:00+02:00
 draft: false
 categories: ["posts"]
-tags: ["world-lense", "personal", "30min"]
+tags: ["world-lense", "personal", "30min-thought"]
 ---
 
 ![thinking](/img/overthinking.png)
