@@ -11,13 +11,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 13:45:00 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 21:15:16 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>30min</title>
-      <link>https://chumvan.github.io/tags/30min/</link>
-      <pubDate>Sat, 25 Feb 2023 13:45:00 +0200</pubDate>
+      <title>30min-thought</title>
+      <link>https://chumvan.github.io/tags/30min-thought/</link>
+      <pubDate>Wed, 01 Mar 2023 21:15:16 +0200</pubDate>
       
-      <guid>https://chumvan.github.io/tags/30min/</guid>
+      <guid>https://chumvan.github.io/tags/30min-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://chumvan.github.io/tags/ai/</link>
+      <pubDate>Wed, 01 Mar 2023 21:15:16 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world-lense</title>
+      <link>https://chumvan.github.io/tags/world-lense/</link>
+      <pubDate>Wed, 01 Mar 2023 21:15:16 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/tags/world-lense/</guid>
       <description></description>
     </item>
     
@@ -27,24 +45,6 @@
       <pubDate>Sat, 25 Feb 2023 13:45:00 +0200</pubDate>
       
       <guid>https://chumvan.github.io/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>world-lense</title>
-      <link>https://chumvan.github.io/tags/world-lense/</link>
-      <pubDate>Sat, 25 Feb 2023 13:45:00 +0200</pubDate>
-      
-      <guid>https://chumvan.github.io/tags/world-lense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://chumvan.github.io/tags/ai/</link>
-      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
-      
-      <guid>https://chumvan.github.io/tags/ai/</guid>
       <description></description>
     </item>
     

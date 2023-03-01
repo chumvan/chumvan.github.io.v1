@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI on Trung Van</title>
-    <link>https://chumvan.github.io/tags/ai/</link>
-    <description>Recent content in AI on Trung Van</description>
+    <title>30min-thought on Trung Van</title>
+    <link>https://chumvan.github.io/tags/30min-thought/</link>
+    <description>Recent content in 30min-thought on Trung Van</description>
     <image>
       <title>Trung Van</title>
       <url>https://chumvan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 21:15:16 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 21:15:16 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/tags/30min-thought/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolution over Revolution</title>
       <link>https://chumvan.github.io/posts/evolutionoverrevolution/</link>
@@ -23,12 +23,13 @@
     </item>
     
     <item>
-      <title>CV</title>
-      <link>https://chumvan.github.io/posts/cv/</link>
-      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      <title>On thinking</title>
+      <link>https://chumvan.github.io/posts/onthinking/</link>
+      <pubDate>Sat, 25 Feb 2023 13:45:00 +0200</pubDate>
       
-      <guid>https://chumvan.github.io/posts/cv/</guid>
-      <description>I hesitated for a while about making this page. Many people including me dislike long pages of text. However, there are occasions where they are needed. Who knows, there could be people who actually like to process this information like that. Personally, I believe a face-to-face meeting serves as the best CV of mine. If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).</description>
+      <guid>https://chumvan.github.io/posts/onthinking/</guid>
+      <description>Sometimes we spend hours, days, or even months worrying about things that aren’t actually that big of a deal. We tend to hope for a complicated or ‘mind-blowing’ solution to compensate for the effort we’ve put into the problem. But when we look back, the dots connect, and it all seems much simpler.
+This analogy is applicable to life too. Deciding to take the first step can be the hardest part, as it requires us to make a decision with so much uncertainty, doubt, freedom and possibilities.</description>
     </item>
     
   </channel>
