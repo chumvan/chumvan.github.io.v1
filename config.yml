@@ -57,21 +57,21 @@ params:
     iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: Trung
-    subtitle: "on this (pla)net"
-    imageUrl: "/img/frog.png"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my avatar
-    buttons:
-      - name: resumé
-        url: posts/cv
-      - name: posts
-        url: posts
-      - name: tags
-        url: tags
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: Trung
+  #   subtitle: "on this (pla)net"
+  #   imageUrl: "/img/frog.png"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my avatar
+  #   buttons:
+  #     - name: resumé
+  #       url: posts/cv
+  #     - name: posts
+  #       url: posts
+  #     - name: tags
+  #       url: tags
 
   # home-info mode
   homeInfoParams:
@@ -114,6 +114,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: cv
+      name: cv
+      url: /posts/cv/
+      weight: 1
     - identifier: posts
       name: posts
       url: /posts/
@@ -128,7 +132,7 @@ menu:
       weight: 20
     - identifier: about
       name: about
-      url: /about/_about
+      url: /posts/about/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

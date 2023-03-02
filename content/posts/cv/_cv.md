@@ -277,4 +277,4 @@ Focus:
 ## 7. Personal contact
 
 By looking at this section, you have confirmed that you are looking for my contact.
-This [Personal Info]({{<ref "/content/about/personalInfo.md">}} "Personal") should lead you to the contact section
+This [Personal Info]({{<ref "/content/posts/about/personalInfo.md">}} "Personal") should lead you to the contact section
