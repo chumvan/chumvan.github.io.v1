@@ -75,7 +75,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "I am Trung"
+    Title: "Trung on the (pla)net"
     Content: "Somehow you found this site, why don't you check some (cool) stuffs here?"
 
   socialIcons:
